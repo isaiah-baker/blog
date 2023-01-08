@@ -7,7 +7,7 @@ export const getGlobalData = () => {
     : 'Tech adventures';
   const footerText = process.env.BLOG_FOOTER_TEXT
     ? decodeURI(process.env.BLOG_FOOTER_TEXT)
-    : 'mailto:isaiah@isaiahbaker.xyz';
+    : 'isaiah@isaiahbaker.xyz';
 
   return {
     name,
