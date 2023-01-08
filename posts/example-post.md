@@ -116,6 +116,12 @@ Right aligned columns
 
 ## Links
 
+```
+![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+```
+
+
+
 [link text](http://dev.nodeca.com)
 
 [link with title](http://nodeca.github.io/pica/demo/ "title text!")
